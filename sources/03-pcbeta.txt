@@ -1,0 +1,5 @@
+43.161.244.42 www.pcbeta.com
+43.161.244.42 bbs.pcbeta.com
+43.161.244.42 uc.pcbeta.com
+43.161.244.42 i.pcbeta.com
+
