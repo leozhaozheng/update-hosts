@@ -8,8 +8,6 @@ curl -k -o sources\04-githubhosts.txt https://hosts.gitcdn.top/hosts.txt
 
 type sources\* >>hosts
 
-pause
-
 move /Y hosts C:\Windows\System32\drivers\etc\hosts
 
 ipconfig /flushdns
