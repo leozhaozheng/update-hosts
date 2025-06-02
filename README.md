@@ -11,5 +11,5 @@ Windows Batch Processing to update pcbeta and github hosts
 43.161.244.42 i.pcbeta.com
 ```
 
-4. github hosts
+3. github hosts
  https://hosts.gitcdn.top/hosts.txt
